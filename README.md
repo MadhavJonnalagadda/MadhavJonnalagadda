@@ -192,45 +192,8 @@
 
 ---
 
-## 📈 Contribution Snake
-
-Add this workflow later to generate a contribution snake animation:
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@master
-        with:
-          github_user_name: MadhavJonnalagadda
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-```
-
-Then display it using:
-
-```md
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/MadhavJonnalagadda/MadhavJonnalagadda/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
-<div align="center">
-
-### ⭐ "Building intelligent software that creates real-world impact."
-
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MadhavJonnalagadda/MadhavJonnalagadda/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
