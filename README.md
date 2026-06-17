@@ -5,7 +5,7 @@ Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Dev
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Developing+Full-Stack+Solutions;Exploring+Machine+Learning+and+Data+Analytics;Turning+Ideas+Into+Real-World+Projects;Open+to+Software+Development+Internships" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Exploring+Machine+Learning+and+Data+Analytics;Turning+Ideas+Into+Real-World+Projects;Open+to+Software+Development+Internships" />
 </p>
 
 <p align="center">
