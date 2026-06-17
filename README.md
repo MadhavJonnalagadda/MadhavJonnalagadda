@@ -1,15 +1,41 @@
 <h1 align="center">Hi 👋, I'm Madhav Jonnalagadda</h1>
-<h3 align="center">Computer Science Student | AI & Machine Learning Enthusiast | Full Stack Developer</h3>
+
+<h3 align="center">
+Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Developing+Full-Stack+Solutions;Exploring+Machine+Learning+and+Data+Analytics;Turning+Ideas+Into+Real-World+Projects;Open+to+Software+Development+Internships" />
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/madhav-jonnalagadda-380b61290/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/MadhavJonnalagadda">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Madhav2046/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/jmadhav2046">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+Machine+Learning+Developer;MERN+Stack+Developer;Data+Analytics+Enthusiast;Building+Intelligent+Solutions+for+Real-World+Problems)](https://git.io/typing-svg)
+```python
+while True:
+    learn()
+    build()
+    improve()
+```
 
 </div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MadhavJonnalagadda&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
-</p>
 
 ---
 
