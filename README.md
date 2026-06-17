@@ -26,18 +26,7 @@ Computer Science Student • AI & Machine Learning Enthusiast • Full Stack Dev
 </a>
 </p>
 
-<div align="center">
 
-```python
-while True:
-    learn()
-    build()
-    improve()
-```
-
-</div>
-
----
 
 ## 🚀 About Me
 
